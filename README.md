@@ -28,6 +28,6 @@ Users should be able to:
 ## Author
 
 - Website - [Sahil-Sorathiya](https://github.com/Sahil-Sorathiya)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Sahil-Sorathiya)
+- Frontend Mentor - [@Sahil-Sorathiya](https://www.frontendmentor.io/profile/Sahil-Sorathiya)
 
 

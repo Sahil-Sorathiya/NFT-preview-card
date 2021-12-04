@@ -15,7 +15,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: (https://sahil-sorathiya.github.io/NFT-preview-card/)
+- Live Site URL: (https://stoic-beaver-0d76cb.netlify.app/)
 
 
 ### Built with

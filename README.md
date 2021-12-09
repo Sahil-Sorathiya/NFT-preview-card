@@ -15,8 +15,9 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: (https://www.frontendmentor.io/solutions/simple-card-using-basic-css-and-flexbox-O3Adho5Jo)
-- Live Site URL: (https://stoic-beaver-0d76cb.netlify.app/)
+
+- [Solution URL](https://www.frontendmentor.io/solutions/simple-card-using-basic-css-and-flexbox-O3Adho5Jo)
+- [Live Site URL](https://stoic-beaver-0d76cb.netlify.app/)
 
 ### Built with
 
